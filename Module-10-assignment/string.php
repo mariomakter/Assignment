@@ -8,3 +8,4 @@ foreach($stings as $str){
 
     echo "Original String: $str, Vowel Count: $countVowel, Reversed String: $reverseString"."\n";
 }
+?>
